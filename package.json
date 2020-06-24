@@ -1,0 +1,17 @@
+{
+  "name": "client_server_example",
+  "version": "1.0.0",
+  "description": "Cirando um projeto GraphQL",
+  "private": true,
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r esm ."
+  },
+  "author": "Miller César de Oliveira",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}
